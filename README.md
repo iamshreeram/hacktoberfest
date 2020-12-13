@@ -1,7 +1,7 @@
 # hacktoberfest
 Repository for hacktoberfest 
 
-## This repo is created for `hacktoberfest` - `2018`
+## This repo is created for `hacktoberfest` - `2018` and `2020`
 
 Steps :
 1. Fork the repository
