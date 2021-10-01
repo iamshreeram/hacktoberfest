@@ -8,4 +8,4 @@ Steps :
 2. `git clone <username>/hacktoberfest` the repository
 3. Add some script to the project
 4. Commit and push the changes to repo
-5. Create pull Request
+5. Create the pull Request
